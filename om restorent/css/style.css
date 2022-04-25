@@ -1,0 +1,16 @@
+.logo_img{
+	width:100px;
+	height:100px;
+}
+.nav-link{
+	margin:0px 0px 0px 100px;
+}
+.back_img{
+	width:100%;
+}
+nav{
+  position: absolute;
+  bottom: 550px;
+  left: 16px;
+  font-size:40px;
+}
